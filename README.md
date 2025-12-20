@@ -8,3 +8,6 @@ Tech Stack:
 
 Status:
 Work in progress – real-time detection pipeline implemented.
+
+Output:
+![Output Image]("C:\Users\ziyas\OneDrive\Pictures\Screenshots\Screenshot 2025-12-20 150532.png")
